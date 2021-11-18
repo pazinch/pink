@@ -1,16 +1,7 @@
 {
-    "name": "125911-pink",
-    "version": "0.1.0",
-    "repository": {
-        "type": "git",
-        "url": "git@github.com:htmlacademy-adaptive/125911-pink.git"
-    },
-    "devDependencies": {
-    },
-    "scripts": {
-    },
-    "engines": {
-    },
-    "dependencies": {
-    }
+  "name": "pink",
+  "version": "1.0.0",
+  "dependencies": {
+    
+  }
 }
